@@ -2,7 +2,7 @@
 
 **A comprehensive Jupyter Notebook for predicting NVIDIA (NVDA) stock metrics using LSTM models.**
 
-This repository contains a Jupyter Notebook, `NVDA_Complete_LSTM_Forecasts.ipynb`, that leverages Long Short-Term Memory (LSTM) neural networks to forecast various stock metrics for NVIDIA (NVDA) based on historical daily data. The notebook includes optimized models for predicting closing price, opening price, trading volume, and volatility, using multivariate inputs to maximize accuracy. Ideal for stock market enthusiasts, data scientists, or anyone interested in time series forecasting with machine learning.
+This repository contains a Jupyter Notebook, `NVDA_Stock_Predictions_LSTM.ipynb`, that leverages Long Short-Term Memory (LSTM) neural networks to forecast various stock metrics for NVIDIA (NVDA) based on historical daily data. The notebook includes optimized models for predicting closing price, opening price, trading volume, and volatility, using multivariate inputs to maximize accuracy. Ideal for stock market enthusiasts, data scientists, or anyone interested in time series forecasting with machine learning.
 
 ## Features
 - **Multiple Predictions**:
